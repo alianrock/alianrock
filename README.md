@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/alianrock)
+![Metrics](https://metrics.lecoq.io/alianrock?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 <!--
 **alianrock/alianrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
